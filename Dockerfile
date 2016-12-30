@@ -1,1 +1,1 @@
-netsil/netsil:stable-1.0.7
+from netsil/netsil:stable-1.0.7
